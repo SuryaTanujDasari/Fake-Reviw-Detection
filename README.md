@@ -1,1 +1,1 @@
-# Fake-Reviw-Detection
+# Fake-Review-Detection
